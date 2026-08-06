@@ -16,11 +16,11 @@ This workbook was designed to answer operational planning questions including:
 
 
 I plan to add
-Gross profit analysis
-Margin calculations
-Monthly revenue forecasting
-Tutor utilization
-Administrative cost tracking
+- Gross profit analysis
+- Margin calculations
+- Monthly revenue forecasting
+- Tutor utilization
+- Administrative cost tracking
 
 
 
