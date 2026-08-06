@@ -12,7 +12,7 @@ This workbook was designed to answer operational planning questions including:
 ![Executive Summary](screenshots/executive-summary.jpg)
 
 ## Payroll Worksheet
-![Payroll Worksheet](screenshots/payroll-worksheet.jp)
+![Payroll Worksheet](screenshots/payroll-worksheet.jpg)
 
 
 I plan to add
