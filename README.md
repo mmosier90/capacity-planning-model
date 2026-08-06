@@ -2,11 +2,11 @@
 This project is a financial and staffing model built in Excel/Google Sheets for an educational services company.
 
 This workbook was designed to answer operational planning questions including:
-How many tutors are needed?
-What payroll should be expected?
-How do staffing decisions affect profitability?
-What margins are sustainable?
-How many students can current staffing support?
+- How many tutors are needed?
+- What payroll should be expected?
+- How do staffing decisions affect profitability?
+- What margins are sustainable?
+- How many students can current staffing support?
 
 
 
