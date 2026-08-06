@@ -8,6 +8,11 @@ This workbook was designed to answer operational planning questions including:
 - What margins are sustainable?
 - How many students can current staffing support?
 
+## Executive Dashboard
+![Executive Dashboard](screenshots/executive-summary.png)
+
+## Payroll Model
+![Payroll Model](screenshots/payroll-calculator.png)
 
 
 I plan to add
