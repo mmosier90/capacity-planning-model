@@ -9,10 +9,10 @@ This workbook was designed to answer operational planning questions including:
 - How many students can current staffing support?
 
 ## Executive Summary
-![Executive Summary](screenshots/Executive Summary.JPG)
+![Executive Summary](screenshots/executive-summary.jpg)
 
 ## Payroll Worksheet
-![Payroll Worksheet](screenshots/Payroll Worksheet.JPG)
+![Payroll Worksheet](screenshots/payroll-worksheet.jp)
 
 
 I plan to add
